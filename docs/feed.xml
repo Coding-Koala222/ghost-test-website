@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The Cat Website</title>
   <subtitle>Thoughts, stories and ideas.</subtitle>
-  <link href="https://Coding-Koala222.github.io/ghost-test-website//feed.xml" rel="self"/>
-  <link href="https://Coding-Koala222.github.io/ghost-test-website/"/>
+  <link href="https://panda-labs.dev//feed.xml" rel="self"/>
+  <link href="https://panda-labs.dev/"/>
   <updated>2026-05-11T01:34:55.000+00:00</updated>
-  <id>https://Coding-Koala222.github.io/ghost-test-website//</id>
+  <id>https://panda-labs.dev//</id>
   <author>
     <name>Theo Moser</name>
   </author>
   <entry>
     <title>Coming soon</title>
-    <link href="https://Coding-Koala222.github.io/ghost-test-website//coming-soon/"/>
+    <link href="https://panda-labs.dev//coming-soon/"/>
     <updated>2026-05-11T01:34:55.000+00:00</updated>
-    <id>https://Coding-Koala222.github.io/ghost-test-website//coming-soon/</id>
-    <content type="html">&lt;p&gt;This is The Cat Website, a brand new site by Theo Moser that&#39;s just getting started. Things will be up and running here shortly, but you can &lt;a href=&quot;https://coding-koala222.github.io/ghost-test-website//feed.xml#/portal/&quot;&gt;subscribe&lt;/a&gt; in the meantime if you&#39;d like to stay up to date and receive emails when new content is published!&lt;/p&gt;</content>
+    <id>https://panda-labs.dev//coming-soon/</id>
+    <content type="html">&lt;p&gt;This is The Cat Website, a brand new site by Theo Moser that&#39;s just getting started. Things will be up and running here shortly, but you can &lt;a href=&quot;https://panda-labs.dev//feed.xml#/portal/&quot;&gt;subscribe&lt;/a&gt; in the meantime if you&#39;d like to stay up to date and receive emails when new content is published!&lt;/p&gt;</content>
   </entry>
 </feed>
