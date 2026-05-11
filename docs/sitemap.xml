@@ -12,7 +12,17 @@
   </url>
   
   <url>
+    <loc>https://panda-labs.dev/3d-modeling-2/</loc>
+    <lastmod>2026-05-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://panda-labs.dev/about/</loc>
+    <lastmod>2026-05-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://panda-labs.dev/projects/</loc>
     <lastmod>2026-05-11</lastmod>
   </url>
   
@@ -43,6 +53,11 @@
   
   <url>
     <loc>https://panda-labs.dev/robots.txt</loc>
+    <lastmod>2026-05-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://panda-labs.dev/404/</loc>
     <lastmod>2026-05-11</lastmod>
   </url>
   
