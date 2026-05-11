@@ -1,3 +1,5 @@
+# Pulled from [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost)
+
 # Deprecated
 
 This project is no longer maintained.
