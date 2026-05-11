@@ -197,6 +197,7 @@ module.exports = function(config) {
 
   // Eleventy configuration
   return {
+    pathPrefix: "/ghost-test-website/",
     dir: {
       input: "src",
       output: "docs"
